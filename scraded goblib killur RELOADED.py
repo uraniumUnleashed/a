@@ -1,8 +1,6 @@
 goblino = ("You see a goblin sitting in the grass")
 
 name = input("enter name: ")
-while name == "name":
-    name = input("pick a different one bozo: ")
 print(name, "go kill some goblin argh")
 choice1 = input("Type 1 to go find a goblin, 2 to go explore the town: ")
 if choice1 == "1":
